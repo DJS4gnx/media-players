@@ -1,4 +1,0 @@
-services:
-  site:
-    ports:
-      - 6001:80
